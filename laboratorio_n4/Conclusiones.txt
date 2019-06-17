@@ -1,0 +1,9 @@
+Conclusiones:
+- Podemos ejecutar nuestra aplicacion con expo, este nos ayuda a ejecutar
+ localmente
+- Creamos un componente y lo seteamos 3 veces en nuestra App
+- Hicimos una prueba con botones, para dale accion a los botones, accedemos a su
+valor mediante props, y podemos setaer este vamos con los botonos  con state
+- Como observamos algunas propiedades son diferentes en los componentes, como el de boton
+su propiedad en html es onclick pero aqui es onPress
+- Pueden generarse errores por falta de importacion, o declaracion de funciones

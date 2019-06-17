@@ -1,5 +1,5 @@
 Conclusiones:
-- utilzamos choc que es un gestor de dependencias casi igual que npm
+- utilzamos choco que es un gestor de dependencias casi igual que npm
 podemos descargar cualquier programa para windows y es su ultima version
 - Debemos instalar React native goblal para poder utilizar los comandos desde
 cualquier lugar

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\labs_react\\laboratorio_n7\\lab07\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
+            "outputFile": "D:\\labs_react\\aplicaciones-moviles-multiplataforma\\laboratorio_n7\\lab07\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\lu_24\\.gradle\\caches\\transforms-2\\files-2.1\\df0c04f1c95a4daa5b0eeb74e43be552\\res\\values-gu\\values-gu.xml",
