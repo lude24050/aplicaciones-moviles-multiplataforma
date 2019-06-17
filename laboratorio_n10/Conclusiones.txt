@@ -1,0 +1,7 @@
+Conclusiones: 
+-Para poder integrar un mapa a nuestra aplicacion nos ayudamos de google
+Maps service, creamos un componente donde poder visualizarlo
+-Es importante dar permiso para que acceder a nuestra ubicacion y poder usarla
+en el mapa
+-Cuando creamos el componente Map , este tiene propiedades , por ejemplo de
+latitud, logitud,  podemos dar datos exactos para poder probarlos

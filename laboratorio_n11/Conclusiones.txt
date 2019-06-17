@@ -1,0 +1,8 @@
+Conclusiones: 
+-El algoritmo MD5 se utiliza como función hash criptográfica o como huella digital de archivo.
+ Es no reversible y muy seguro para la seguridad de la contraseña.
+-Utilizamos MD5 para encryptar el email en la ruta donde se jalara la foto de email
+del usuario, esto es por seguridad
+-Como vemos ya tenemos chat, un view de perfil y con reconocimiento de imagen
+, las interfaces se ven muy gracias a poder elements de react native, nos muestra una lista de 
+elementos que podemos utilizar 

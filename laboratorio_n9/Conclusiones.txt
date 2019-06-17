@@ -1,0 +1,10 @@
+Conclusiones:
+- multer es un middleware para el manejo  multipart/form-data,
+ que se utiliza principalmente para cargar archivos , en este caso 
+la foto
+- modificamos el build.gradle para dar permiso y acceso a la camara
+de nuestro dispositivo
+- Es importante aceptar el permiso de la camara, si es rechazado es 
+muy probable que no se vuelva a pedir y la aplicacion ya no funcionaria
+, o volver a instalar la aplicacion.
+- Cargamos archios jpg, ya que no son de tan mala definicion y pesan poco

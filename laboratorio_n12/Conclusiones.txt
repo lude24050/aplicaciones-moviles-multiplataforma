@@ -1,0 +1,7 @@
+Conclusiones: 
+- React Native Settings List nos ayuda auna implementación React Native limpia y altamente
+ personalizable de una lista de configuraciones para una página de configuraciones.
+- Utilizamos esta herramienta de react para poder crear una vista de edit perfil con diferentes
+configuraciones
+-Cremos un archivo independiente de configuraciones, este ser el backend de la parte 
+de las listas de configuraciones
