@@ -1,0 +1,9 @@
+Conclusiones: 
+-React Navigation nace de la necesidad de la comunidad nativa React
+ de contar con una solución de navegación 
+ampliable pero fácil de usar basada en Javascript.
+- existen otras librerias aparte de react navigation que nos ayudan con la navegacion
+de nuestra App, pero una de las mas populares y estables es react navigation
+-Modificamos el MainActivity para poder manejar y poder delegar algunas funciones
+- Podemos crear nuestra Ap con diferentes tipos de layouts, ya depende de
+cada uno

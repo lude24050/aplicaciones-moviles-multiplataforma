@@ -1,0 +1,7 @@
+-logramos hacer conexion con la Api de la pagina de peliculas gracias a la libreria
+axios
+-React native es un framework muy ordenado ,como vimos en el error de keypara mostrar la lista de 
+peliculas, nos hace trabajar de una manera adecuada
+-Flatlist es una libreria para que nos brinda una interfaz para presentar listas simples y planas
+-Con la libreria Axios podemos hacer peticiones http , de esta forma podemos consumir
+la data de la API

@@ -1,0 +1,8 @@
+-Creamos un chat para los usuarios que estan logeados, utilizamos socket.io
+ya que es una libreria muy facil de usar y rapido cuando se trata de
+conexion y respuesta en tiempo real
+- Nos conectamos mediante la ip del servidor , en este caso la ip de 
+nuestra laptop
+- Utilizamos varios componentes, gif para hacer una interfaz tipo whatsapp
+- Al hacer las pruebas siempre es recomendableusar postman para ver el
+resultado de cada ruta

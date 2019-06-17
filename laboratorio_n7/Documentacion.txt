@@ -1,0 +1,10 @@
+Conclusiones:
+- Como de inicio modificamos el MainActitity para poder implementar cualquier
+layout
+- Nos enfocamos en gran parte en la interfaz de la App, descargamos y usamos
+iconos y efectos de las entradas inputs
+- Con axios esta vez damos nuestra ip desde donde se corre el servidor
+en mi caso la laptop, y el puerto que esta en uso
+- Trabajamos con un layout de 2 vistas, tipo bar buttons , elegimos este porque
+se adapta para el login y el registro
+- La Interfaz que se hizo en el laboratorio es responsiva tanto horizontal y verticalmente
