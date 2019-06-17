@@ -1,0 +1,14 @@
+Conclusiones:
+- utilzamos choc que es un gestor de dependencias casi igual que npm
+podemos descargar cualquier programa para windows y es su ultima version
+- Debemos instalar React native goblal para poder utilizar los comandos desde
+cualquier lugar
+-La sdk de android es muy importante , ya que esta tiene los paquetes para poder
+hacer correr la aplicaciona android en un emulador o dispositivo real
+- Encontramos errores cuando queremos acceder a la sdk de android por 
+que el nombre de la ruta no llega, error por espacios en alguna carpeta
+-react permite que cualquier cambio en el codigo lo muestre en tiempo real
+en el dispositivo movil
+- logramos modificar css e integrar una imagen en un componente
+- debemos tener configurado en modo desarrollador nuestro movil para poder instalar
+la aplicacion

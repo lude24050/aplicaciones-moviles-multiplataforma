@@ -1,0 +1,13 @@
+- Logramos ver la diferencia de trabajar con componentes en vez de etiquetas
+, claro que tambien podemos trabajar con html normal
+- logramos dar acciones a botones, con handler, y una ventaja al igual que php,
+podemos trabajar un backend en el mismo archivo, pero no es muy recomendable
+- Una ventaja para abreviar codigo, es que podemos crear componentes en diferentes
+archivos y poder usarlos en otra vista
+- Con react podemos manejar el valor de un componente con props
+- Con este framework podemos trabajar mejor el front-end por la manejabilidad
+de los componentes
+- Al usar React solo basta con un npm start y se ejecutara el proyecto
+con un puerto por default
+- Un detalle de React es que los cambios que hacemos en el codigo son mostrados
+en tiempo real 
